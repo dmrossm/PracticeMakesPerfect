@@ -1,0 +1,9 @@
+got lot of indentation errors
+
+code was not in the correct place (it should be under py docs not above it)
+
+function calls should be outside of the function
+
+generate_fake_data function doesn't work
+
+50
