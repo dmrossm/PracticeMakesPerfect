@@ -1,0 +1,7 @@
+FakeDataGenerator
+I liked name/lastname usage, I just learned that faker has first_name() method
+class with no dataframe case is missing
+
+Analysis looks good
+
+85
