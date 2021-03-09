@@ -1,0 +1,3 @@
+the bug is when you updated the shopping list for one, the other one also changes.
+
+40
