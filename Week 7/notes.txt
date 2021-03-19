@@ -1,0 +1,6 @@
+part1: first graph is good. 
+second graph doesn't look right. 
+
+part2: dice assignment looks way off.
+
+65
