@@ -1,0 +1,32 @@
+Summary: Bitcoin Evolution
+
+	Bitcoin was launched in January of 2009 and is currently the most successful cryptocurrency, with a market capitalization of over
+$41 billion and each bitcoin being worth $2,500 USD. It was initially invented by Satoshi Nakamoto (which may be one or more individuals). 
+A whitepaper outlining it conceptually was posted on a cryptography mailing list on October 21, 2008. It was described as “a new electronic cash
+system that’s fully peer-to-peer, with no trusted third party” (www.metzdowd.com/pipermail/cryptography/2008-October/014810.html).Interestingly, 
+the advances in algorithms, distributed software and hardware that have fueled its astonishing exchange rate and market value, happened outside of 
+the corporate and political worlds. Bitcoin was built by individuals with a passion for changing the way currencies are exchanged and function. 
+These advances have evolveed into a globally distrubted blockchain that is supported by hardware running the same algorithm, but strewn worldwide.
+	Bitcoin mining is what makes transactions consistent and dependable. While the initial hardware used to mine bitcoins was developed outside
+of the corporate world, that has mostly changed, with intensely-energy efficient corporate-owned data centers, using application-++specific integrated 
+circuits (ASICs), ruling what was once a hobbyists world. These companies are becoming fewer and fewer, and they are placing these data centers in areas 
+with the least amount of overhead. 
+	The incentive to mine comes in the form of a block reward and transaction fees paid by Bitcoin. Block rewards are made in the form of BTC's, 
+which halve every 210,000 blocks and will never exceed 21 million in total. Because of this system, by 2032, 99% of all will have been mined. Additionally,
+as new machines are added to the system, and network mining capacity increases, each machine gets a smaller percentage of the daily bounty of 1,800 BTC's,
+Thus, the system is constantly self-adjusting. 
+	While, the value of a BTC in US dollars has risen mostly steadily, there have been periods of volatility ("bubbles"). How hard it is to mine a BTC has 
+also increased over time, due to an increase in the number of machines added to the system. The effect of this fierce competition amongst miners has been the 
+birth of increasingly sophisticated mining software and a transition from usage of CPUs to GPUs to FPGAs (field-programmable gate arrays). This in turn has led 
+to fierce competition amongst miners to acquire these new technologies so as to outcompete other machines/data centers and remain profitable. When machines/data 
+centers lose this competitive edge, the must simply "unplug." Another interesting outcome of the evolution of Bitcoin are secondary markets that design and sell 
+equipment to these miners or run data centers for them (allowign them to be shareholders), ButterflyLabs and ASICMiner being early examples of these emerging 
+markets, respectively. Along with these emerging markets, there have been successive generations of Bitcoin miners, following this schema: 1st generation - CPUs,
+2nd generation - GPUs, 3rd generation - FPGAs, 4th generation - "ASIC Race," 5th generation - "ASIC War," 6th generation - "ASIC Victors." The latter 3 generations
+introduced companies like Butterfly Labs, ASICMiner, Avalon, Bitfury, KnCMiner, Hashfast, Cointerra, Bitmain, Spondoolies, with the main "victors" being Bitfury 
+and Bitmain.
+	The amazing thing about this evolution has actually been its benefit to other companies/industries via rapid development of the above-mentioned algorithms, 
+software and hardware. These tools are now allowing other "planet-scale applications" to meet the needs increasing numbers of user, similar in scale to the Bitcoin 
+user population. Companies like Apple, Facebook and Google, to name a few are now using these tools to run Siri, Facebook Live and Brain, respectively. Much like 
+other technologic revolutions within human history, a race to gain wealth has given birth to a multitude of varying uses for the intital tools used to gain that wealth.
+
