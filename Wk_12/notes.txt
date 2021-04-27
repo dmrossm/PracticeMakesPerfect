@@ -1,0 +1,6 @@
+so sorry to hear about the accident! 
+
+for part2, I liked the logic however that defeats the purpose of this assignment. 
+What if the data is streaming data? You would have space to write it down
+
+60
